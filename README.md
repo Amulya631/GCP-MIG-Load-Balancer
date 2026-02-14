@@ -1,10 +1,3 @@
-Perfect 😌🔥
-Now we turn this into a **portfolio-level GitHub project**.
-
-You can copy this directly into your `README.md`.
-
----
-
 # 🚀 GCP Managed Instance Group + Load Balancer Project
 
 ## 📌 Project Overview
