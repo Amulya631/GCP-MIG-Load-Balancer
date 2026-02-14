@@ -1,5 +1,5 @@
 # 🚀 GCP Managed Instance Group + Load Balancer Project
-
+ 
 ## 📌 Project Overview
 
 This project demonstrates how to build a **scalable, highly available web application architecture** in Google Cloud Platform (GCP) using:
